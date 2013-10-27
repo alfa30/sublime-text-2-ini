@@ -13,5 +13,6 @@ Proyectos Involucrados
 ----------------------
  * https://github.com/alfa30/ubuntu-project-gota (Preinstalled)
  * https://github.com/clintberry/sublime-text-2-ini (Origin)
+ * https://github.com/SublimeText/Dictionaries
 
 

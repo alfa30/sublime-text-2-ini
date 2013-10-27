@@ -5,8 +5,8 @@ Integra Paquetes útiles para ser utilizados por en *"Sublime text"*. Pensado en
 
 Colaboradores
 -------------
- * [https://github.com/clintberry/sublime-text-2-ini](ClintBerry)
- * [https://github.com/SublimeText/Dictionaries#contributors](SublimeText/Dictionaries) 
+ * [ClintBerry](https://github.com/clintberry/sublime-text-2-ini)
+ * [SublimeText/Dictionaries](https://github.com/SublimeText/Dictionaries#contributors) 
 
 
 Proyectos Involucrados

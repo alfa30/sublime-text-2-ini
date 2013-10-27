@@ -2,18 +2,19 @@ Sublime text Package Extra
 ==========================
 Integra Paquetes útiles para ser utilizados por en *"Sublime text"*. Pensado en disminuir el tiempo que se toma el desarrollador instalando los paquetes que mas necesite Este repositorio entrega una lista completa de los paquetes mas útiles que pueden ser requeridos por el desarrollador
 
-
-Colaboradores
--------------
- * [ClintBerry](https://github.com/clintberry/sublime-text-2-ini)
- * [SublimeText/Dictionaries](https://github.com/SublimeText/Dictionaries#contributors) 
-
+Paquetes Incluidos
+------------------
+ * Emmet
+ * Language - Spanish
+ * Package Control
+ * Syntax INI
 
 Proyectos Involucrados
 ----------------------
  * https://github.com/alfa30/ubuntu-project-gota (Preinstalled)
  * https://github.com/clintberry/sublime-text-2-ini (Origin)
  * https://github.com/SublimeText/Dictionaries
+ * https://github.com/emmetio/emmet
 
 Autor
 -----

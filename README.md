@@ -15,8 +15,12 @@ Proyectos Involucrados
  * https://github.com/clintberry/sublime-text-2-ini (Origin)
  * https://github.com/SublimeText/Dictionaries
 
+Autor
+-----
+[Jonathan Delgado (alfa30)](https://github.com/alfa30)
+
 License
 -------
-![LICENSE](http://i.creativecommons.org/l/by/3.0/88x31.png)<br/>
+![LICENSE](http://i.creativecommons.org/l/by/3.0/88x31.png)<br/>	
 See [LICENSE](https://github.com/alfa30/sublime-text-Package-Extra/blob/master/LICENSE.txt)
 

@@ -15,4 +15,6 @@ Proyectos Involucrados
  * https://github.com/clintberry/sublime-text-2-ini (Origin)
  * https://github.com/SublimeText/Dictionaries
 
-
+License
+-------
+See [LICENSE](https://github.com/alfa30/sublime-text-Package-Extra/blob/master/LICENSE.txt)

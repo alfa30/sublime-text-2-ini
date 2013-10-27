@@ -17,6 +17,6 @@ Proyectos Involucrados
 
 License
 -------
-![LICENSE](http://i.creativecommons.org/l/by/3.0/88x31.png)
+![LICENSE](http://i.creativecommons.org/l/by/3.0/88x31.png)<br/>
 See [LICENSE](https://github.com/alfa30/sublime-text-Package-Extra/blob/master/LICENSE.txt)
 

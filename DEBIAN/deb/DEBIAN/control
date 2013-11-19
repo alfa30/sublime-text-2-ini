@@ -1,7 +1,8 @@
 Package: Package-Ini-sublime-text
-Version: 0.3.4
+Version: 0.3.5
 Architecture: all
 Maintainer: Jonathan Delgado <jonad.correo@gmail.com>, Clint Berry <clint@system-11.com>
 Section: editors
+Installed-Size: 604
 Priority: extra
 Description: Packete de mejoras para sublime text. Revizar https://github.com/alfa30/sublime-text-Package-Extra

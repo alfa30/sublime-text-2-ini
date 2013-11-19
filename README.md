@@ -8,6 +8,7 @@ Paquetes Incluidos
  * Language - Spanish
  * Package Control
  * Syntax INI
+ * Syntax Vala
 
 Proyectos Involucrados
 ----------------------
